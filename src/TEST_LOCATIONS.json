@@ -1,0 +1,25 @@
+[
+    {
+      "name":"Goron City",
+      "exits":[
+        {"name":"Darunia's Room", "Destination": "Zora's River"},
+        {"name":"Goron Shop", "Destination": "Lost Woods"},
+        {"name":"Main Entrance", "Destination": "Lon Lon"}
+      ]
+    },
+    {
+      "name":"Zora's River",
+      "exits":[
+        {"name":"Waterfall", "Destination": "Hyrule Market"},
+        {"name":"Mouth", "Destination": "Geurudo Fortress"}
+      ]
+    },
+    {
+      "name":"Hyrule Market",
+      "exits":[
+        {"name":"Temple of Time", "Destination": "Geurudo tent"},
+        {"name":"Castle Exit", "Destination": "Kakariko Village"},
+        {"name":"Field Exit", "Destination": "Lon Lon"}
+      ]
+    }
+  ]
