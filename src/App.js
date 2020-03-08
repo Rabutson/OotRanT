@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
-import LocationList from './components/LocationList.js';
+import { LocationList } from './components/LocationList.js';
+//import { ParentComp } from './components/ParentTest/Parent.js';
 import './App.css';
 
 function App() {
